@@ -1,1 +1,2 @@
-- Página básica de usuario y password
+- Listado de usuarios: Pasa de archivo xml a bbdd mysql local
+

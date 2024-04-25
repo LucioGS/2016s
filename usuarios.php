@@ -1,7 +1,7 @@
 <?php 
 
-	include "modelos/xml.php"; 
-	$un_array = usuarios_xml();
+	include "modelos/bbdd/usuario.php"; 
+	$un_array = listado_usuarios();	
 	include "vistas/usuarios.htm"; 
 
 ?>
